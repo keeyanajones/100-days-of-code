@@ -1,30 +1,20 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: October 6, 2022 Thursday (Preparing)
+**Today's Progress**: I updated my tools (VSCode and Github Desktop) and started planning what I wanted to learn or improve.  I followed and subscribed to the social media accounts related to the challenge.  I also decided on a format for the work to be displayed. I updated my discord server and looked at how others post progress.   
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Thoughts:** I created a task list, updated Trello, my schedule, and overall I feel excited and ready to get started.  I do feel like I am not really a noob because I code more than an hour daily but I only sync my changes once a month for my website. I am a little concerned about how this will turn out because unlike most, my aim is not to teach Python, get a million followers, or be a fancy doctor scientist of the computer. My aim is to do what I already do but share it to inspire people who are like me.      
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** [Github](https://github.com/keeyanajones)
+[Twitter](https://twitter.com/keeyanajones)
+[LinkedIn](https://www.linkedin.com/in/keeyana-jones-5a275514)
 
-**Link to work:** [Calculator App](http://www.example.com)
+### Day 1: October 7, 2022 Friday
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+**Today's Progress**: I've gone through many projects, exercises, and task on my Trello I need to get done.
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** I've fallen behind on my a few of my task, and I plan on combining task to get caught up on task and working on the challenge.  I need to sync my github everyday.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Update my Github Blog Website](https://keeyanajones.github.io)
+2. [Create boiler plates and templates](https://github.com/keeyanajones/100-days-of-code)
