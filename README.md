@@ -10,8 +10,9 @@
 ---
 
 Day - Project Name
-* [Day 0 - project](/day-000/README.md)
-* [Day 1 - project](/day-001/)
+* [Day 0 - Quick Start Boiler Plates and Snippets](/day-000/README.md)
+
+* [Day 1](/day-001/) - [Card Demo](https://keeyanajones.github.io/other/card-demo.html)
 * [Day 2 - project](log.md)
 * [Day 3 - project](log.md)
 * [Day 4 - project](log.md)
