@@ -1,5 +1,3 @@
-# Repository Name
-Repository Name
 
 ## Table of Content
 - what does it do
@@ -12,6 +10,8 @@ Repository Name
 ## what does it do
 Because the 100 days of code examples description and link list would be so long, a simple bootstrap card with a modal window containing the contents was an option or a link leading to the repository from the website.  
 
+[Card Demo](https://keeyanajones.github.io/other/card-demo.html)
+
 - CREATED : October 11, 2022 
 - LAST MODIFIED: October 19, 2022
 
@@ -19,7 +19,7 @@ Because the 100 days of code examples description and link list would be so long
 bootstrap v5.2, html, css, javascript
 
 ## stage
-is live
+is live - [Card Demo](https://keeyanajones.github.io/other/card-demo.html)
 
 ## quick start
 Quick setup — if you’ve done this kind of thing before
