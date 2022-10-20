@@ -1,11 +1,29 @@
 # I've joined the #100DaysOfCode Challenge
 
 ## Contents
-
 * [Rules](rules.md)
-* [Log - click here to see my progress](log.md)
+* [Log - my progress](log.md)
+* [Twitter Log - progress tweets](social-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
+
+---
+
+Day - Project Name
+* [Day 0 - project](/day-000/README.md)
+* [Day 1 - project](/day-001/)
+* [Day 2 - project](log.md)
+* [Day 3 - project](log.md)
+* [Day 4 - project](log.md)
+* [Day 5 - project](log.md)
+* [Day 6 - project](log.md)
+* [Day 7 - project](log.md)
+* [Day 8 - project](log.md)
+* [Day 9 - project](log.md)
+* [Day 10 - project](log.md)
+* [Day 11 - project](log.md)
+* [Day 12 - project](log.md)
+
 
 ## Translations
 [বাংলা](intl/bn/README.md) - [català](intl/ca/README.md) - [中文](intl/ch/README.md) - [deutsch](intl/de/README.md) - [español](intl/es/README.md) – [français](intl/fr/FAQ-fr.md) – [italiano](intl/it/README.md) – [日本語](intl/ja/README.md) - [한국어](intl/ko/README-ko.md) – [nederlands](intl/nl/README.md) – [norsk](intl/no/README.md) –  [polski](intl/pl/README.md) - [português do Brasil](intl/pt-br/LEIAME.md) - [русский](intl/ru/README-ru.md) – [українська](intl/ua/README-ua.md) - [ελληνικά](intl/el/README.md) - [srpski](intl/sr/README-sr.md)

@@ -1,0 +1,121 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Website Section Demo</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" 
+          rel="stylesheet" crossorigin="anonymous"
+          integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi">
+  </head>
+  <body>
+    <div class="container">
+      <h1>Website Card Section with Modal Example</h1>
+
+      <div class="row">
+        <div class="col">
+          <!-- card 1 -->
+          <div class="card" style="width: 18rem">
+            <a id="otherPortfolio"></a>
+            <img src="card-bg.png" class="card-img-top" alt="cards background image">
+            <div class="card-body">
+              <h5 class="card-title">100 Days of Code</h5>
+              <p class="card-text">Some quick example text to build on the 
+                card title and make up the bulk of the card's content.</p>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">Week 1</li>
+              <li class="list-group-item">Week 2</li>
+              <li class="list-group-item">Week 3</li>
+              <li class="list-group-item">Week 4</li>
+              <li class="list-group-item">Week 5</li>
+              <li class="list-group-item">Week 6</li>
+              <li class="list-group-item">Week 7</li>
+              <li class="list-group-item">Week 8</li>
+              <li class="list-group-item">Week 9</li>
+              <li class="list-group-item">Week 10</li>
+              <li class="list-group-item">Week 11</li>
+              <li class="list-group-item">Week 12</li>
+              <li class="list-group-item">Week 13</li>
+              <li class="list-group-item">Week 14</li>                                                      
+            </ul>
+            <div class="card-body">
+              <a href="#" class="card-link">My Repository</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <!-- card 2 -->
+          <div class="card" style="width: 18rem">
+            <a id="otherPortfolio"></a>
+            <img src="card-bg.png" class="card-img-top" alt="cards background image">
+            <div class="card-body">
+              <h5 class="card-title">Other</h5>
+              <p class="card-text">Any other collection of instructions and data 
+                that tell a computer or device how to work and 100 days of code 
+                challenge.</p>
+            </div>
+            <ul class="list-group list-group-flush">
+              <li class="list-group-item">
+                <a href="https://github.com/keeyanajones/100-days-of-code" 
+                   target="_blank" class="card-link">
+                  100 Day Code Challenge Repository</a></li>
+            </ul>
+            <div class="card-body">
+              <!-- Button trigger modal -->
+              <button type="button" class="btn btn-sm btn-outline-secondary" 
+                      data-bs-toggle="modal" data-bs-target="#otherModal">
+                100 Days of Code Challenge Progress
+              </button>
+            </div>
+            <small class="text-muted text-center">12th of 100 days</small>
+          </div>
+        </div>
+      </div> 
+ 
+      <!-- Modal -->
+      <div class="modal fade" id="otherModal" tabindex="-1" aria-labelledby="otherModalLabel" aria-hidden="true">
+        <div class="modal-dialog">
+          <div class="modal-content">
+            <div class="modal-header">
+              <h5 class="modal-title" id="otherModalLabel">100 Days of Code</h5>
+              <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+              <strong>100 Days of Code</strong>: 
+              <a href="https://github.com/keeyanajones/100-days-of-code" 
+                  target="_blank">100 days of code challenge projects</a>
+
+              <ul class="list-group list-group-flush">
+                <li class="list-group-item">Week 1</li>
+                <li class="list-group-item">Week 2</li>
+                <li class="list-group-item">Week 3</li>
+                <li class="list-group-item">Week 4</li>
+                <li class="list-group-item">Week 5</li>
+                <li class="list-group-item">Week 6</li>
+                <li class="list-group-item">Week 7</li>
+                <li class="list-group-item">Week 8</li>
+                <li class="list-group-item">Week 9</li>
+                <li class="list-group-item">Week 10</li>
+                <li class="list-group-item">Week 11</li>
+                <li class="list-group-item">Week 12</li>
+                <li class="list-group-item">Week 13</li>
+                <li class="list-group-item">Week 14</li>                                                      
+              </ul>
+
+            </div>                             
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              <button type="button" class="btn btn-primary">Save changes</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- ./ modal-->                                               
+ 
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" 
+            integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" 
+            crossorigin="anonymous"></script>
+  </div>
+  </body>
+</html>

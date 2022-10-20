@@ -1,12 +1,38 @@
-# 100 Days Of Code - Social Media Log
+# 100 Days Of Code - Social Media Log Link(s) 
+1. [Github Blog Website](https://keeyanajones.github.io)
+2. [Repository](https://github.com/keeyanajones/100-days-of-code)
+3. [Twitter](https://twitter.com/keeyanajones)
+4. [Discord](https://discord.gg/NbRTUyF3tP) 
+5. [Twitch.tv](https://www.twitch.tv/agent_kee)
+6. [Youtube](https://www.youtube.com/user/keeyanajones)
+7. [Facebook Fan Page](https://www.facebook.com/agentkee) 
+8. [Free Code Camp](https://www.freecodecamp.org/keeyanajones)
+9. [LinkedIn](https://www.linkedin.com/in/keeyana-jones-5a275514)
 
 ### Day 1: October 7, 2022 Friday
-
-Day 1: Today I updated my website with a section just for the #100-days-of-code stuff.  I also went through my projects, exercises, and task on Trello to see what I need to improve, learn, and create.  A few things I'm still working on are a new cluster on MongoDB for apps, boiler plates/starters, and templates so I don't get obsessed with the small snippets.   
-
-**Link(s) to work**
-1. [Update my Github Blog Website](https://keeyanajones.github.io)
-2. [Create boiler plates and templates](https://github.com/keeyanajones/100-days-of-code)
-
-**Twitter**
 Day 1 of 100 Days of Code. Updated website with a new section found tasks in my Trello to improve, learn, and create. Still working on MongoDB cluster, boiler plates/starters, and templates. Reading about new ai all night  #100DaysOfCode #100daysofcoding
+
+### Day 2: October 8, 2022 Saturday
+Day 2 of 100 Days of Code. Still obsessing over the website updates 🥺, working on MongoDB cluster, and Machine Learning with Python and TensorFlow #100DaysOfCode #100daysofcoding
+
+### Day 3: October 9, 2022 Sunday
+Day 3 of 100 Days of Code. Still working on AI, Machine Learning with Python and TensorFlow #100DaysOfCode #100daysofcoding
+
+### Day 4: October 10, 2022 Monday
+Day 4 of 100 Days of Code. Still working on AI, Machine Learning with Python and TensorFlow #100DaysOfCode #100daysofcoding
+
+### Day 5: October 11, 2022 Tuesday
+Day 5 of 100 Days of Code.  Uploaded all my code to my new repository, got organized, finished freecodecamp Machine Learning with Python certification #100DaysOfCode #100daysofcoding   
+
+### Day 6: October 12, 2022 Wednesday
+Day 6 of 100 Days of Code.  Learning more about pooling, models, and Neural Networks to finish up freecodecamp Machine Learning with Python certification #100DaysOfCode #100daysofcoding   
+
+### Day 7: October 13, 2022 Thursday
+Day 7 of 100 Days of Code.  Still Learning Neural Networks, Deep Learning,11to finish up freecodecamp Machine Learning with Python Certification. Those extra math classes were for q-learning thanks #DavenportU #100DaysOfCode #100daysofcoding
+
+### Day 8, 9, and 10: October 14 - 16, 2022 Friday - Sunday
+Day 8, 9, & 10 of 100 Days of Code.  Still Learning Neural Networks, Deep Learning, and Machine Learning. Finally, caught up then relaxed and took a break #100DaysOfCode #100daysofcoding
+
+### Day 11: October 17, 2022 Monday
+11 of 100 Days of Code. Still working on Python Rock Paper Scissors, Cat and Dog Image Classifier, Book Recommendation Engine using KNN, Linear Regression Health Costs Calculator, Neural Network SMS Text Classifier. Not sleeping tonight 🥱#100DaysOfCode #100daysofcodingworking
+
