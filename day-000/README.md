@@ -1,5 +1,3 @@
-# Repository Name
-Repository Name
 
 ## Table of Content
 - what does it do
@@ -11,6 +9,8 @@ Repository Name
 
 ## what does it do
 Quick start boiler plates for snippets of common code to save time.  
+- bootstrap v5.2 quick start 
+- css common styles quick start
 
 - CREATED : October 11, 2022 
 - LAST MODIFIED: October 18, 2022
