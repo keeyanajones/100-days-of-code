@@ -1,5 +1,3 @@
-# Repository Name
-Repository Name
 
 ## Table of Content
 - what does it do
@@ -54,7 +52,9 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 ProTip! Use the URL for this page when adding GitHub as a remote.
 
 ## what's included
-what is included
+
+- client 
+- server
 
 ## copyright and license
  - MIT License Copyright (c) 2022 Keeyana Jones

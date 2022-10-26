@@ -36,3 +36,15 @@ Day 8, 9, & 10 of 100 Days of Code.  Still Learning Neural Networks, Deep Learni
 ### Day 11: October 17, 2022 Monday
 11 of 100 Days of Code. Still working on Python Rock Paper Scissors, Cat and Dog Image Classifier, Book Recommendation Engine using KNN, Linear Regression Health Costs Calculator, Neural Network SMS Text Classifier. Not sleeping tonight 🥱#100DaysOfCode #100daysofcodingworking
 
+### Day 12: October 18, 2022 Tuesday
+12 of 100 Days of Code. Still working on Python Projects, but went off on a tangent to learn more about Matplotlib, chart.js, and Machine Learning stuff. I want a blanket, good food, and to binge watch something 🥺 #100DaysOfCode #100daysofcodingworking
+
+### Day 13: October 19, 2022 Wednesday
+13 of 100 Days of Code. Still working on Python Projects and updating repositories. I'm going to be up all night again but I think I have found my flow 👩‍💻 #100DaysOfCode #100daysofcodingworking
+
+### Day 14 and 15: October 20 - 21, 2022 Thursday - Friday
+14 & 15 of 100 Days of Code. Still working on Python and updating repositories. So much is going on, but I'm up all night again 👩‍💻 #100DaysOfCode #100daysofcodingworking
+
+### Day 16, 17, 18: October 22 - 24, 2022 Saturday - Monday
+16 & 17 & 18 of 100 Days of Code. Working on Python Projects, Scientific Computing with Python, and updating repositories. I'm up all night again but took a nap so I would be ready for it 👩‍💻 #100DaysOfCode #100daysofcodingworking
+

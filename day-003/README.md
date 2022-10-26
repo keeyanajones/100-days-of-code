@@ -2,7 +2,47 @@
 Repository Name
 
 ## what does it do
-Repository Description
+Introduction to TensorFlow
+Core Learning Algorithms
+Core Learning Algorithms: Working with Data
+Core Learning Algorithms: Training and Testing Data
+Core Learning Algorithms: The Training Process
+Core Learning Algorithms: Classification
+Core Learning Algorithms: Building the Model
+Core Learning Algorithms: Clustering
+Core Learning Algorithms: Hidden Markov Models
+Core Learning Algorithms: Using Probabilities to make Predictions
+
+Neural Networks with TensorFlow
+Neural Networks: Activation Functions
+Neural Networks: Optimizers
+Neural Networks: Creating a Model
+
+Convolutional Neural Networks
+Convolutional Neural Networks: The Convolutional Layer
+Creating a Convolutional Neural Network
+Convolutional Neural Networks: Evaluating the Model
+Convolutional Neural Networks: Picking a Pretrained Model
+
+Natural Language Processing With RNNs
+Natural Language Processing With RNNs: Part 2
+Natural Language Processing With RNNs: Recurring Neural Networks
+Natural Language Processing With RNNs: Sentiment Analysis
+Natural Language Processing With RNNs: Making Predictions
+Natural Language Processing With RNNs: Create a Play Generator
+Natural Language Processing With RNNs: Building the Model
+Natural Language Processing With RNNs: Training the Model
+
+Reinforcement Learning With Q-Learning
+Reinforcement Learning With Q-Learning: Part 2
+Reinforcement Learning With Q-Learning: Example
+
+    Conclusion
+
+
+
+
+
 
 ## what is it
 - Contents Description

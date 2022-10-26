@@ -66,6 +66,23 @@
 
 **Thoughts** I'm tired but I didn't drink any coffee, I am trying to limit the earl grey tea I drink, like the doctor told me but its cold too so its tough.
 
+### Day 12: October 18, 2022 Tuesday
+**Today's Progress**:Still working on Python Projects, but went off on a tangent to learn more about Matplotlib, chart.js, and Machine Learning stuff. I want a blanket, good food, and to binge watch something 🥺 
 
+**Thoughts** 
 
+### Day 13: October 19, 2022 Wednesday
+**Today's Progress**:Still working on Python Projects and updating repositories. I'm going to be up all night again but I think I have found my flow 👩‍💻 
+
+**Thoughts** 
+
+### Day 14 and 15: October 20 - 21, 2022 Thursday - Friday
+**Today's Progress**:Still working on Python and updating repositories. So much is going on, but I'm up all night again 👩‍💻 
+
+**Thoughts** 
+
+### Day 16, 17, 18: October 22 - 24, 2022 Saturday - Monday
+**Today's Progress**:Working on Python Projects, Scientific Computing with Python, and updating repositories. I'm up all night again but took a nap so I would be ready for it 👩‍💻 
+
+**Thoughts** 
 
