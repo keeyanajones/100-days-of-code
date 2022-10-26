@@ -13,17 +13,18 @@ Day - Project Name
 * [Day 0 - Quick Start Boiler Plates and Snippets](/day-000/README.md)
 
 * [Day 1](/day-001/) - [Card Demo](https://keeyanajones.github.io/other/card-demo.html)
-* [Day 2 - project](log.md)
-* [Day 3 - project](log.md)
-* [Day 4 - project](log.md)
-* [Day 5 - project](log.md)
-* [Day 6 - project](log.md)
-* [Day 7 - project](log.md)
-* [Day 8 - project](log.md)
-* [Day 9 - project](log.md)
-* [Day 10 - project](log.md)
-* [Day 11 - project](log.md)
-* [Day 12 - project](log.md)
+* [Day 2](/day-002/) - [Mongo Express React Node MERN Update](/day-002/README.md)
+* [Day 3](/day-003/) - [project](log.md)
+* [Day 4](/day-004/) - [project](log.md)
+* [Day 5](/day-005/) - [project](log.md)
+* [Day 6](/day-006/) - [project](log.md)
+* [Day 7](/day-007/) - [project](log.md)
+
+* [Day 8](/day-008/) - project](log.md)
+* [Day 9](/day-009/) - project](log.md)
+* [Day 10](/day-010/) - project](log.md)
+* [Day 11](/day-011/) - project](log.md)
+* [Day 12](/day-012/) - project](log.md)
 
 
 ## Translations
